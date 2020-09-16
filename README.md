@@ -8,7 +8,7 @@
 
 ## Made for:
    - Linux OS
-   - Windows OS
+   - Windows OS EXE FIle available in [Releases](https://github.com/AbirHasan2005/PyCal/releases)
    - Mac OS
 
 ## Requirements:
